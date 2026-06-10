@@ -17,6 +17,7 @@ Most apps have **two versions**:
 | **Inmigrante.Help** | [inmigrante-help.png](logos/inmigrante-help.png) | [inmigrante-help-icon.png](logos/inmigrante-help-icon.png) |
 | **PayLess.Help** | [payless-help.png](logos/payless-help.png) | [payless-help-icon.png](logos/payless-help-icon.png) |
 | **PostPilot.Help** | [postpilot-help.png](logos/postpilot-help.png) | [postpilot-help-icon.png](logos/postpilot-help-icon.png) |
+| **ProfilePhoto.Help** | [profilephoto-help.png](logos/profilephoto-help.png) | [profilephoto-help-icon.png](logos/profilephoto-help-icon.png) |
 | **Zari** | [zari.png](logos/zari.png) | _(icon is the only logo)_ |
 
 ## Notes
