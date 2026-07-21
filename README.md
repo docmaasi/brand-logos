@@ -1,6 +1,6 @@
 # Brand Logos
 
-Central, public brand library for all `.Help` apps.
+Central, public brand library for all Smith App Studio brands — the `.Help` apps plus the studio and its other properties.
 Every logo here is the official, current branded version, copied from that app's own repository.
 
 Most apps have **two versions**:
@@ -14,11 +14,14 @@ Most apps have **two versions**:
 | **CoParent.Help** | [coparent-help.png](logos/coparent-help.png) | _(full logo is already square)_ |
 | **ExamPilot.Help** | [exampilot-help.png](logos/exampilot-help.png) | [exampilot-help-icon.png](logos/exampilot-help-icon.png) |
 | **FamilyCare.Help** | [familycare-help.png](logos/familycare-help.png) | _(full logo is already square)_ |
+| **FamilyCare Facility** | [familycare-facility.png](logos/familycare-facility.png) | _(full logo only)_ |
 | **Inmigrante.Help** | [inmigrante-help.png](logos/inmigrante-help.png) | [inmigrante-help-icon.png](logos/inmigrante-help-icon.png) |
+| **Nexaria Digital** | [nexaria.png](logos/nexaria.png) | _(full logo only)_ |
 | **PayLess.Help** | [payless-help.png](logos/payless-help.png) | [payless-help-icon.png](logos/payless-help-icon.png) |
 | **PostPilot.Help** | [postpilot-help.png](logos/postpilot-help.png) | [postpilot-help-icon.png](logos/postpilot-help-icon.png) |
 | **ProfilePhoto.Help** | [profilephoto-help.png](logos/profilephoto-help.png) | [profilephoto-help-icon.png](logos/profilephoto-help-icon.png) |
 | **ProfitSignal.Help** | [profitsignal-help.png](logos/profitsignal-help.png) | _(full logo is already square)_ |
+| **Smith App Studio LLC** | [smith-app-studio.png](logos/smith-app-studio.png) | _(full logo is already square)_ |
 | **TrueID.Help** | [trueid-help.png](logos/trueid-help.png) | _(full logo is already square)_ |
 | **Zari** | [zari.png](logos/zari.png) | _(icon is the only logo)_ |
 
